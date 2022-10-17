@@ -1,0 +1,8 @@
+# ignore everything
+*.*
+
+# unignore these
+!*.py
+!*.md
+!.gitignore
+!*.csv
